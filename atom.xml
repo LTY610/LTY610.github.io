@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LTY610.github.io</id>
     <title>LTY&apos;S Homepage</title>
-    <updated>2022-01-29T06:23:56.094Z</updated>
+    <updated>2022-01-29T06:32:54.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LTY610.github.io"/>
     <link rel="self" href="https://LTY610.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Here to record my everyday life</subtitle>
     <logo>https://LTY610.github.io/images/avatar.png</logo>
     <icon>https://LTY610.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, LTY&apos;S Homepage</rights>
