@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LTY610.github.io</id>
     <title>LTY&apos;S Homepage</title>
-    <updated>2022-01-29T16:41:01.211Z</updated>
+    <updated>2022-01-29T16:56:12.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LTY610.github.io"/>
     <link rel="self" href="https://LTY610.github.io/atom.xml"/>
@@ -45,15 +45,22 @@
 <h4 id="shanghai-research-institute-of-materials-20211-20212">Shanghai Research Institute of Materials (2021.1-2021.2)</h4>
 <p>👨‍🔬Learnt to test the performance of Bluetooth Antenna by using HFSS.</p>
 <h3 id="skills-and-certificates">💪Skills and Certificates</h3>
-<p>🤖Elementary programming skills on C/C++ and Python<br>
+<p>————————————<br>
+🤖Elementary programming skills on C/C++ and Python<br>
 🎃Elementary 3D modeling skills<br>
 🗣IELTS: 7.5 (2018.9-2020.9)<br>
 Driving License</p>
 <h3 id="interest">🤞Interest</h3>
-<p>⚽️Sports: tennis, table tennis, soccer, cycling, hiking<br>
+<p>————————————<br>
+⚽️Sports: tennis, table tennis, soccer, cycling, hiking<br>
 🌏Knowledge on Geography<br>
 🇨🇳Knowledge on modern history<br>
 🚘Knowledge about Automobiles</p>
+<h3 id="contact-me">💁‍♂Contact me!</h3>
+<p>————————————<br>
+I'm currently looking for internship position of AI developer and VC business analyst. If you may offer me precious internship position, PLEASE contact me through the following measures:<br>
+📝email: lity2@shanghaitech.edu.cn<br>
+📲QQ: 2063831980 (basic information required to pass verification)</p>
 ]]></content>
     </entry>
 </feed>
