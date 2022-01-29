@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LTY610.github.io</id>
     <title>LTY&apos;S Homepage</title>
-    <updated>2022-01-29T16:58:18.315Z</updated>
+    <updated>2022-01-29T17:12:12.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LTY610.github.io"/>
     <link rel="self" href="https://LTY610.github.io/atom.xml"/>
@@ -11,14 +11,33 @@
     <icon>https://LTY610.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, LTY&apos;S Homepage</rights>
     <entry>
+        <title type="html"><![CDATA[Tasks Underway]]></title>
+        <id>https://LTY610.github.io/post/tasks-underway/</id>
+        <link href="https://LTY610.github.io/post/tasks-underway/">
+        </link>
+        <updated>2022-01-29T17:00:41.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="read-the-pifu-paper-and-write-the-review">🙇Read the PIFu paper and write the review</h3>
+<h3 id="价值-张磊132381">💼《价值》 张磊（132/381）</h3>
+<h3 id="从0到1-peter-thiel-0260">🇺🇸《从0到1》 Peter Thiel (0/260)</h3>
+]]></summary>
+        <content type="html"><![CDATA[<h3 id="read-the-pifu-paper-and-write-the-review">🙇Read the PIFu paper and write the review</h3>
+<h3 id="价值-张磊132381">💼《价值》 张磊（132/381）</h3>
+<h3 id="从0到1-peter-thiel-0260">🇺🇸《从0到1》 Peter Thiel (0/260)</h3>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://LTY610.github.io/post-images/1643476023925.jpg" alt="" loading="lazy"></figure>
+<h2 id="finished-tasks-start-from-20221">Finished Tasks (Start from 2022.1)</h2>
+<p>🌚Nothing yet</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[My Recommendation]]></title>
         <id>https://LTY610.github.io/post/my-recommendation/</id>
         <link href="https://LTY610.github.io/post/my-recommendation/">
         </link>
         <updated>2022-01-29T07:23:29.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="academy">Academy</h2>
-<h2 id="living">Living</h2>
-<h2 id="restaurants">Restaurants</h2>
+        <content type="html"><![CDATA[<h3 id="academy">Academy</h3>
+<h3 id="living">Living</h3>
+<h3 id="restaurants">Restaurants</h3>
 ]]></content>
     </entry>
     <entry>
