@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LTY610.github.io</id>
     <title>LTY&apos;S Homepage</title>
-    <updated>2022-01-29T17:18:40.542Z</updated>
+    <updated>2022-02-02T11:56:45.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://LTY610.github.io"/>
     <link rel="self" href="https://LTY610.github.io/atom.xml"/>
@@ -37,7 +37,9 @@
         <updated>2022-01-29T07:23:29.000Z</updated>
         <content type="html"><![CDATA[<h3 id="academy">Academy</h3>
 <h3 id="living">Living</h3>
-<h3 id="restaurants">Restaurants</h3>
+<h3 id="some-pain-points">Some pain points</h3>
+<h4 id="中国人加班常见没时间做饭没时间装修-中国有没有和flyhome对标的企业">💻中国人加班常见，没时间做饭，没时间装修。中国有没有和flyhome对标的企业？</h4>
+<h4 id="中国人无法高效地利用空余时间">🕰中国人无法高效地利用空余时间。</h4>
 ]]></content>
     </entry>
     <entry>
